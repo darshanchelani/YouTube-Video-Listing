@@ -21,4 +21,4 @@ A YouTube-style video listing page that fetches and displays videos from the Fre
 
 ## Deployment
 
-- Hosted on [Netlify/Vercel/GitHub Pages]: [](#)
+- Hosted on [Netlify/Vercel/GitHub Pages]: [https://ytvideolisting.netlify.app/](#)
